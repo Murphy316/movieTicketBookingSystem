@@ -1,0 +1,8 @@
+1,2020-04-29,8:00~10:30,Black Widow,Scarlett Johansson,Restrict,Yes
+2,2020-04-29,9:00~11:30,MuLan,Liu Yifei,Everyone,Yes
+3,2020-04-30,8:00~10:30,No Time to Die,Daniel Craig,Everyone,Sold Out
+4,2020-04-30,9:00~11:30,Wonder Woman 1984,Gal Gadot,Everyone,Yes
+5,2020-05-01,8:00~10:30,Black Widow,Scarlett Johansson,Restrict,Yes
+6,2020-05-01,9:00~11:30,MuLan,Liu Yifei,Everyone,Yes
+7,2020-05-01,8:00~10:30,No Time to Die,Daniel Craig,Everyone,Cancelled
+8,2020-05-01,9:00~11:30,Wonder Woman 1984,Gal Gadot,Everyone,Yes
